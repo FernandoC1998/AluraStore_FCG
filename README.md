@@ -1,2 +1,12 @@
 # AluraStore_FCG
- El objetivo es identificar la tienda menos eficiente y presentar una recomendación final basada en los datos.
+
+Este proyecto analiza las ventas de 4 tiendas, evaluando:
+- Ventas totales
+- Categoría más vendida
+- Calificación promedio
+- Costos de envío
+
+Tecnologías:
+- Python
+- Pandas
+- Matplotlib
